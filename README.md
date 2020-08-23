@@ -27,7 +27,7 @@ Developed in Python, based on "pyCuRL/libcurl", "youtube_dl", and "PySimpleGUI"
 * download video subtitles.
 * write video metadata to downloaded files.
 * check for application updates.
-* Scheduling downloads
+* Scheduling downloads.
 * Re-using existing connection to remote server.
 * Clipboard Monitor.
 * Simple GUI interface with 140 themes available. "90s-looking GUI"
